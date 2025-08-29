@@ -9,4 +9,4 @@ A Streamlit-based health assistant that predicts the likelihood of Diabetes, Hea
 🔹 Interactive Web UI built with Streamlit for user-friendly predictions.
 🔹 Notebook Support (.ipynb) for detailed experimentation and training.
 
-Use Command - Streamlit run "location\ML Project\Main\app.py" in terminal after installing all required dependenices 
+Use Command - Streamlit run "location\ML Project\app.py" in terminal after installing all required dependenices 
