@@ -1,0 +1,20 @@
+# Backend requirements for DSA Search & AI Assistant
+
+# FastAPI stack
+fastapi
+uvicorn[standard]
+pydantic
+
+# ML & vector search
+scikit-learn
+scipy
+numpy
+joblib
+
+# Database & auth utilities
+sqlalchemy
+python-multipart
+
+# HTTP clients (for external APIs like Gemini)
+httpx
+requests
